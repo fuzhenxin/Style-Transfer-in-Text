@@ -16,6 +16,9 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style Transfer from Non-Parallel Text by Cross-Alignment, NIPS-2017, [[paper]](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf), [[code]](https://github.com/shentianxiao/language-style-transfer)
 - Zero-Shot Style Transfer in Text Using Recurrent Neural Networks, Arxiv-2017, [[paper]](https://arxiv.org/abs/1711.04731)
 - Style Transfer in Text: Exploration and Evaluation, AAAI-2018, [[paper]](https://arxiv.org/abs/1711.06861), [[code]](https://github.com/fuzhenxin/text_style_transfer)
+- Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer, NAACL-2018, [[paper]](https://arxiv.org/abs/1804.06437)
+- SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation, NAACL-2018, [[paper]](https://arxiv.org/abs/1804.04093)
+- Sentiment Transfer using Seq2Seq Adversarial Autoencoders, project for CSYE7245 Northeastern University, [[paper]](https://arxiv.org/abs/1804.04003)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, Arxiv-2017, [[paper]](https://arxiv.org/abs/1707.02633)
