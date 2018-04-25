@@ -19,6 +19,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer, NAACL-2018, [[paper]](https://arxiv.org/abs/1804.06437)
 - SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation, NAACL-2018, [[paper]](https://arxiv.org/abs/1804.04093)
 - Sentiment Transfer using Seq2Seq Adversarial Autoencoders, project for CSYE7245 Northeastern University, [[paper]](https://arxiv.org/abs/1804.04003)
+- Style Transfer Through Back-Translation, Arxiv, [[paper]](https://arxiv.org/abs/1804.09000)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, Arxiv-2017, [[paper]](https://arxiv.org/abs/1707.02633)
