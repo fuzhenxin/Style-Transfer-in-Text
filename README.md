@@ -21,6 +21,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Sentiment Transfer using Seq2Seq Adversarial Autoencoders, project for CSYE7245 Northeastern University, [[paper]](https://arxiv.org/abs/1804.04003)
 - Style Transfer Through Back-Translation, ACL-2018, [[paper]](https://arxiv.org/abs/1804.09000)
 - Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach, ACL-2018, [[paper]](https://arxiv.org/abs/1805.05181),[[code]](https://github.com/lancopku/unpaired-sentiment-translation)
+- Unsupervised Text Style Transfer using Language Models as Discriminators, Arxiv, [[paper]](https://arxiv.org/abs/1805.11749)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, Arxiv-2017, [[paper]](https://arxiv.org/abs/1707.02633)
