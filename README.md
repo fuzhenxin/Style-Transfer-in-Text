@@ -32,6 +32,7 @@ This is a paper list for style transfer in text. It also contains some related r
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
+- Stylistic Variation, NAACL-HLT-2018, [[link]](https://sites.google.com/view/2ndstylisticvariation/home)
 
 
 # Copyright 
