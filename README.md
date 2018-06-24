@@ -27,7 +27,8 @@ This is a paper list for style transfer in text. It also contains some related r
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
 - Is writing style predictive of scientific fraud?, EMNLP-2017 Workshop, [[paper]](http://www.aclweb.org/anthology/W17-4905)
-
+- Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, Arxiv, [[paper]](https://arxiv.org/abs/1804.07007)
+- Polite Dialogue Generation Without Parallel Data, Arxiv, [[paper]](https://arxiv.org/abs/1805.03162)
 
 
 # Workshop
