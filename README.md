@@ -26,7 +26,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Disentangled Representation Learning for Text Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1808.04339)
 - Language Style Transfer from Sentences with Arbitrary Unknown Styles, Arxiv, [[paper]](https://arxiv.org/abs/1808.04071)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
-
+- Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
