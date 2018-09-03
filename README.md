@@ -33,6 +33,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Is writing style predictive of scientific fraud?, EMNLP-2017 Workshop, [[paper]](http://www.aclweb.org/anthology/W17-4905)
 - Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
 - Polite Dialogue Generation Without Parallel Data, TACL, [[paper]](https://arxiv.org/abs/1805.03162)
+- Adversarial Decomposition of Text Representation, Arxiv, [[paper]](https://arxiv.org/abs/1808.09042)
 
 
 # Workshop
