@@ -27,6 +27,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Language Style Transfer from Sentences with Arbitrary Unknown Styles, Arxiv, [[paper]](https://arxiv.org/abs/1808.04071)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
 - Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
+- Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
@@ -43,4 +44,4 @@ This is a paper list for style transfer in text. It also contains some related r
 
 # Copyright 
 By Zhenxin Fu (fuzhenxin95@gmail.com) from Peking University.  
-**Welcome to open issue or make a pull request!**
+**Welcome to open an issue or make a pull request!**
