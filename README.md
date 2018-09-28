@@ -29,6 +29,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
 - Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311), [[code]](https://github.com/lancopku/SMAE)
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
+- Structured Content Preservation for Unsupervised Text Style Transfer, OpenReview, 2018, [[paper]](https://openreview.net/forum?id=S1lCbhAqKX)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
