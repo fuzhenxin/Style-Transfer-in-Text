@@ -22,7 +22,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style Transfer Through Back-Translation, ACL-2018, [[paper]](https://arxiv.org/abs/1804.09000), [[code]](https://github.com/shrimai/Style-Transfer-Through-Back-Translation)
 - Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach, ACL-2018, [[paper]](https://arxiv.org/abs/1805.05181), [[code]](https://github.com/lancopku/unpaired-sentiment-translation)
 - Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer, ACL-2018, [[paper]](https://arxiv.org/abs/1805.07685)
-- Unsupervised Text Style Transfer using Language Models as Discriminators, Arxiv, [[paper]](https://arxiv.org/abs/1805.11749)
+- Unsupervised Text Style Transfer using Language Models as Discriminators, NIPS-2018, [[paper]](https://arxiv.org/abs/1805.11749)
 - Disentangled Representation Learning for Text Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1808.04339), [[code]](https://github.com/vineetjohn/linguistic-style-transfer)
 - Language Style Transfer from Sentences with Arbitrary Unknown Styles, Arxiv, [[paper]](https://arxiv.org/abs/1808.04071)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
