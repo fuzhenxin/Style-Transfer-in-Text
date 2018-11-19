@@ -37,6 +37,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Multiple-Attribute Text Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1811.00552)
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
 - Multiple-Attribute Text Rewriting, OpenReview, 2018, [[paper]](https://openreview.net/forum?id=H1g2NhC5KQ)
+- Iterative Matching and Translation for Non-Parallel Style Transfer, UNK, 2018, [[paper]](http://zhijing-jin.com/files/papers/Iterative.pdf)
 
 
 ## Stylistic Related Papers
