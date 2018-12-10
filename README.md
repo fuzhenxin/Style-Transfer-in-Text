@@ -40,6 +40,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
 - Multiple-Attribute Text Rewriting, OpenReview, 2018, [[paper]](https://openreview.net/forum?id=H1g2NhC5KQ)
 - Iterative Matching and Translation for Non-Parallel Style Transfer, UNK, 2018, [[paper]](http://zhijing-jin.com/files/papers/Iterative.pdf)
+- QuaSE: Sequence Editing under Quantifiable Guidance, EMNLP, 2018, [[paper]](http://aclweb.org/anthology/D18-1420)
 
 
 ## Stylistic Related Papers
