@@ -42,6 +42,8 @@ This is a paper list for style transfer in text. It also contains some related r
 - Iterative Matching and Translation for Non-Parallel Style Transfer, UNK, 2018, [[paper]](http://zhijing-jin.com/files/papers/Iterative.pdf)
 - QuaSE: Sequence Editing under Quantifiable Guidance, EMNLP, 2018, [[paper]](http://aclweb.org/anthology/D18-1420)
 
+## Evaluation
+- Evaluating style modification in text, MIT, 2018, [[paper]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
