@@ -11,6 +11,7 @@ This is a paper list for style transfer in text. It also contains some related r
 
 ## Parallel Data (Supervised)
 - Shakespearizing Modern Language Using Copy-Enriched Sequence to Sequence Models, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.01161)[[code]](https://github.com/harsh19/Shakespearizing-Modern-English)
+- Evaluating prose style transfer with the Bible, 2018, [[paper]](https://arxiv.org/abs/1711.04731)
 
 ## Non-parallel Data (Unsupervised)
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
