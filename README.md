@@ -37,7 +37,6 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Controllable Text Formalization, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.04556)
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.08237)
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
-- Multiple-Attribute Text Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1811.00552)
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
 - Multiple-Attribute Text Rewriting, ICLR, 2019, [[paper]](https://openreview.net/forum?id=H1g2NhC5KQ)
 - Unsupervised Text Style Transfer via Iterative Matching and Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1901.11333)
