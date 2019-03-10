@@ -53,7 +53,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
 - Polite Dialogue Generation Without Parallel Data, TACL, [[paper]](https://arxiv.org/abs/1805.03162)
 - Adversarial Decomposition of Text Representation, Arxiv, [[paper]](https://arxiv.org/abs/1808.09042)
-- Unsupervised Stylish Image Description Generation via Domain Layer Norm, Arxiv, [[paper]](https://arxiv.org/abs/1809.06214)
+- Unsupervised Stylish Image Description Generation via Domain Layer Norm, AAAI 2019, [[paper]](https://arxiv.org/abs/1809.06214)
 - Transfer Learning for Style-Specific Text Generation, UNK, 2018, [[paper]](https://nips2018creativity.github.io/doc/Transfer%20Learning%20for%20Style-Specific%20Text%20Generation.pdf)
 - Generating lyrics with variational autoencoder and multi-modal artist embeddings, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1812.08318)
 
