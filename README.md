@@ -44,6 +44,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Adversarial Text Generation via Feature-Mover's Distance, NeurIPS, 2018, [[paper]](https://arxiv.org/abs/1809.06297), [[code]](https://github.com/LiqunChen0606/FM-GAN)
 - Towards Controlled Transformation of Sentiment in Sentences, ICAART, 2019, [[paper]](https://arxiv.org/abs/1901.11467)
 - Formality Style Transfer with Hybrid Textual Annotations, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.06353)
+- Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.10671)
 
 ## Evaluation
 - Evaluating style modification in text, MIT, 2018, [[paper]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
