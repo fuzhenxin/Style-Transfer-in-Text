@@ -47,6 +47,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Formality Style Transfer with Hybrid Textual Annotations, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.06353)
 - Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.10671)
 - Grammatical Error Correction and Style Transfer via Zero-shot Monolingual Translation， Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.11283)
+- Multiple-Attribute Text Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1811.00552)
 
 ## Evaluation
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
