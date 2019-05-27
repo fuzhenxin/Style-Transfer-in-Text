@@ -49,6 +49,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Grammatical Error Correction and Style Transfer via Zero-shot Monolingual Translation， Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.11283)
 - Multiple-Attribute Text Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1811.00552)
 - Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, ACL, 2019, [[paper]](https://arxiv.org/abs/1905.05621)
+- A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1905.10060), [[code]](https://github.com/luofuli/DualLanST)
 
 ## Evaluation
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
