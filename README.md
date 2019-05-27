@@ -44,9 +44,9 @@ This is a paper list for style transfer in text. It also contains some related r
 - Adversarial Text Generation via Feature-Mover's Distance, NeurIPS, 2018, [[paper]](https://arxiv.org/abs/1809.06297), [[code]](https://github.com/LiqunChen0606/FM-GAN)
 - Towards Controlled Transformation of Sentiment in Sentences, ICAART, 2019, [[paper]](https://arxiv.org/abs/1901.11467)
 - Formality Style Transfer with Hybrid Textual Annotations, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.06353)
-- Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.10671)
+- Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus, NAACL-2019, 2019, [[paper]](https://arxiv.org/abs/1903.10671)
 - Grammatical Error Correction and Style Transfer via Zero-shot Monolingual Translation， Arxiv, 2019, [[paper]](https://arxiv.org/abs/1903.11283)
-- Multiple-Attribute Text Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1811.00552)
+- Multiple-Attribute Text Style Transfer, ICLR-2019, 2018, [[paper]](https://arxiv.org/abs/1811.00552)
 - Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, ACL, 2019, [[paper]](https://arxiv.org/abs/1905.05621)
 - A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1905.10060), [[code]](https://github.com/luofuli/DualLanST)
 
