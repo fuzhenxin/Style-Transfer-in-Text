@@ -48,6 +48,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Multiple-Attribute Text Style Transfer (Rewriting), ICLR, 2019, [[paper]](https://openreview.net/forum?id=H1g2NhC5KQ)
 - Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, ACL, 2019, [[paper]](https://arxiv.org/abs/1905.05621)
 - A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1905.10060), [[code]](https://github.com/luofuli/DualLanST)
+- Unsupervised Controllable Text Generation with Global Variation Discovery and Disentanglement, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1905.11975)
 
 ## Evaluation
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
