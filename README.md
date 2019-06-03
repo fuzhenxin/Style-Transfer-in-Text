@@ -34,7 +34,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311), [[code]](https://github.com/lancopku/SMAE)
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
 - Structured Content Preservation for Unsupervised Text Style Transfer, OpenReview, 2018, [[paper]](https://openreview.net/forum?id=S1lCbhAqKX)
-- Unsupervised Controllable Text Formalization, AAAI, 2019, [[paper]](https://arxiv.org/abs/1809.04556)
+- Unsupervised Controllable Text Formalization, AAAI, 2019, [[paper]](https://arxiv.org/abs/1809.04556), [[code]](https://github.com/parajain/uctf)
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.08237)
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
