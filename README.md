@@ -53,6 +53,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1905.12926)
 - Disentangled Representation Learning for Non-Parallel Text Style Transfer, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1041)
 - A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1482)
+- Unsupervised Text Attribute Transfer via Iterative Matching and Translation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1901.11333)
 
 ## Evaluation
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
