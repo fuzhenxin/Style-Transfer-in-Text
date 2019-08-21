@@ -38,7 +38,6 @@ This is a paper list for style transfer in text. It also contains some related r
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.08237)
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
-- Unsupervised Text Style Transfer via Iterative Matching and Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1901.11333)
 - QuaSE: Sequence Editing under Quantifiable Guidance, EMNLP, 2018, [[paper]](http://aclweb.org/anthology/D18-1420)
 - Adversarial Text Generation via Feature-Mover's Distance, NeurIPS, 2018, [[paper]](https://arxiv.org/abs/1809.06297), [[code]](https://github.com/LiqunChen0606/FM-GAN)
 - Towards Controlled Transformation of Sentiment in Sentences, ICAART, 2019, [[paper]](https://arxiv.org/abs/1901.11467)
