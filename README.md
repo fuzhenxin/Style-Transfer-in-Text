@@ -66,6 +66,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Stylish Image Description Generation via Domain Layer Norm, AAAI 2019, [[paper]](https://arxiv.org/abs/1809.06214)
 - Transfer Learning for Style-Specific Text Generation, UNK, 2018, [[paper]](https://nips2018creativity.github.io/doc/Transfer%20Learning%20for%20Style-Specific%20Text%20Generation.pdf)
 - Generating lyrics with variational autoencoder and multi-modal artist embeddings, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1812.08318)
+- Mask and Infill: Applying Masked Language Model to Sentiment Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1908.08039)
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
