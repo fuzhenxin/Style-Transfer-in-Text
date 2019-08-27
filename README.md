@@ -53,6 +53,8 @@ This is a paper list for style transfer in text. It also contains some related r
 - Disentangled Representation Learning for Non-Parallel Text Style Transfer, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1041)
 - A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1482)
 - Unsupervised Text Attribute Transfer via Iterative Matching and Translation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1901.11333)
+- Mask and Infill: Applying Masked Language Model to Sentiment Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1908.08039)
+
 
 ## Evaluation
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
@@ -66,7 +68,6 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Stylish Image Description Generation via Domain Layer Norm, AAAI 2019, [[paper]](https://arxiv.org/abs/1809.06214)
 - Transfer Learning for Style-Specific Text Generation, UNK, 2018, [[paper]](https://nips2018creativity.github.io/doc/Transfer%20Learning%20for%20Style-Specific%20Text%20Generation.pdf)
 - Generating lyrics with variational autoencoder and multi-modal artist embeddings, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1812.08318)
-- Mask and Infill: Applying Masked Language Model to Sentiment Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1908.08039)
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
