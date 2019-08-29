@@ -54,6 +54,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1482)
 - Unsupervised Text Attribute Transfer via Iterative Matching and Translation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1901.11333)
 - Mask and Infill: Applying Masked Language Model to Sentiment Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1908.08039)
+- Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer, EMNLP, 2019, [[paper]](https://128.84.21.199/pdf/1908.09368.pdf), [[code]](https://github.com/agaralabs/transformer-drg-style-transfer)
 
 
 ## Evaluation
