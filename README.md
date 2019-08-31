@@ -55,6 +55,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Text Attribute Transfer via Iterative Matching and Translation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1901.11333)
 - Mask and Infill: Applying Masked Language Model to Sentiment Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/abs/1908.08039)
 - Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1908.09368), [[code]](https://github.com/agaralabs/transformer-drg-style-transfer)
+- Domain Adaptive Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1908.09395)
 
 
 ## Evaluation
