@@ -9,11 +9,11 @@ This is a paper list for style transfer in text. It also contains some related r
 ## Dataset
 - Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/abs/1803.06535)
 
-## Parallel Data (Supervised)
+## Supervised (Parallel Data)
 - Shakespearizing Modern Language Using Copy-Enriched Sequence to Sequence Models, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.01161)[[code]](https://github.com/harsh19/Shakespearizing-Modern-English)
 - Evaluating prose style transfer with the Bible, 2018, [[paper]](https://arxiv.org/abs/1711.04731)
 
-## Non-parallel Data (Unsupervised)
+## Unsupervised (Non-parallel Data)
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
 - Toward Controlled Generation of Text, ICML-2017, [[paper]](https://arxiv.org/abs/1703.00955), [[official code]](https://github.com/asyml/texar/tree/master/examples/text_style_transfer), [[unofficial code]](https://github.com/GBLin5566/toward-controlled-generation-of-text-pytorch)
 - Style Transfer from Non-Parallel Text by Cross-Alignment, NIPS-2017, [[paper]](https://papers.nips.cc/paper/7259-style-transfer-from-non-parallel-text-by-cross-alignment.pdf), [[code]](https://github.com/shentianxiao/language-style-transfer)
