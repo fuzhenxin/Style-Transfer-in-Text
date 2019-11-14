@@ -58,6 +58,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Domain Adaptive Text Style Transfer, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1908.09395), [[code]](https://github.com/cookielee77/DAST)
 - Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.06809.pdf), [[code]](https://github.com/VAShibaev/text_style_transfer)
 - Decomposing Textual Information For Style Transfer, WNGT, 2019, [[paper]](https://arxiv.org/abs/1909.12928)
+- Zero-Shot Fine-Grained Style Transfer: Leveraging Distributed Continuous Style Representations to Transfer To Unseen Styles, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1911.03914)
 
 # Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
@@ -78,6 +79,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Transfer Learning for Style-Specific Text Generation, UNK, 2018, [[paper]](https://nips2018creativity.github.io/doc/Transfer%20Learning%20for%20Style-Specific%20Text%20Generation.pdf)
 - Generating lyrics with variational autoencoder and multi-modal artist embeddings, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1812.08318)
 - ALTER: Auxiliary Text Rewriting Tool for Natural Language Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.06564)
+- Stylized Text Generation Using Wasserstein Autoencoders with a Mixture of Gaussian Prior, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1911.03828)
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
