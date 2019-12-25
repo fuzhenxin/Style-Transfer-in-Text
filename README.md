@@ -81,6 +81,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Generating lyrics with variational autoencoder and multi-modal artist embeddings, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1812.08318)
 - ALTER: Auxiliary Text Rewriting Tool for Natural Language Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.06564)
 - Stylized Text Generation Using Wasserstein Autoencoders with a Mixture of Gaussian Prior, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1911.03828)
+- Adapting Language Models for Non-Parallel Author-Stylized Rewriting, AAAI, 2020 [[paper]](https://arxiv.org/abs/1909.09962)
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
