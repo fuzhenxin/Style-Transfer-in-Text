@@ -85,6 +85,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Stylized Text Generation Using Wasserstein Autoencoders with a Mixture of Gaussian Prior, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1911.03828)
 - Adapting Language Models for Non-Parallel Author-Stylized Rewriting, AAAI, 2020 [[paper]](https://arxiv.org/abs/1909.09962)
 - Structuring Latent Spaces for Stylized Response Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.05361)
+- Complementary Auxiliary Classifiers for Label-Conditional Text Generation, AAAI, 2020, [[paper]](http://people.ee.duke.edu/~lcarin/AAAI_LiY_6828.pdf), [[code]](https://github.com/s1155026040/CARA)
 
 # Workshop
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
