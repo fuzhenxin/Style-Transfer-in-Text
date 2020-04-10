@@ -62,6 +62,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Decomposing Textual Information For Style Transfer, WNGT, 2019, [[paper]](https://arxiv.org/abs/1909.12928)
 - Zero-Shot Fine-Grained Style Transfer: Leveraging Distributed Continuous Style Representations to Transfer To Unseen Styles, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1911.03914)
 - A Probabilistic Formulation of Unsupervised Text Style Transfer, ICLR, 2020, [[paper]](https://openreview.net/forum?id=HJlA0C4tPS)
+- Generating sentences from disentangled syntactic and semantic spaces, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1602/)
 
 # Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
