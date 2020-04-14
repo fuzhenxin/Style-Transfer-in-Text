@@ -73,6 +73,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Rethinking Text Attribute Transfer: A Lexical Analysis, INLG, 2019, [[paper]](https://arxiv.org/abs/1909.12335), [[code]](https://github.com/FranxYao/pivot_analysis)
 - Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer, EMNLP Workshop on Neural Generation and Translation (WNGT), 2019, [[paper]](https://arxiv.org/abs/1810.11878)
 - The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation, WNGT, 2019, [[paper]](https://arxiv.org/abs/1910.03747)
+- Style-transfer and Paraphrase: Looking for a Sensible Semantic Similarity Metric, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2004.05001.pdf)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
