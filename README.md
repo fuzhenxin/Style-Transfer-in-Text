@@ -64,6 +64,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - A Probabilistic Formulation of Unsupervised Text Style Transfer, ICLR, 2020, [[paper]](https://openreview.net/forum?id=HJlA0C4tPS), [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 - Generating sentences from disentangled syntactic and semantic spaces, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1602/), [[code]](https://github.com/baoy-nlp/DSS-VAE)
 - SentiInc: Incorporating Sentiment Information into Sentiment Transfer Without Parallel Data, ECIR, 2020, [[paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-45442-5_39.pdf)
+- Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.00701.pdf)
 
 # Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
