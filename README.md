@@ -37,7 +37,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
 - Structured Content Preservation for Unsupervised Text Style Transfer, OpenReview, 2018, [[paper]](https://openreview.net/forum?id=S1lCbhAqKX)
 - Unsupervised Controllable Text Formalization, AAAI, 2019, [[paper]](https://arxiv.org/abs/1809.04556), [[code]](https://github.com/parajain/uctf)
-- Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.08237)
+- Large-scale Hierarchical Alignment for Data-driven Text Rewriting, RANLP, 2019, [[paper]](https://arxiv.org/abs/1810.08237)
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
 - QuaSE: Sequence Editing under Quantifiable Guidance, EMNLP, 2018, [[paper]](http://aclweb.org/anthology/D18-1420)
@@ -61,9 +61,14 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1908.06809.pdf), [[code]](https://github.com/VAShibaev/text_style_transfer)
 - Decomposing Textual Information For Style Transfer, WNGT, 2019, [[paper]](https://arxiv.org/abs/1909.12928)
 - Zero-Shot Fine-Grained Style Transfer: Leveraging Distributed Continuous Style Representations to Transfer To Unseen Styles, Arxiv, 2019, [[paper]](https://arxiv.org/abs/1911.03914)
-- A Probabilistic Formulation of Unsupervised Text Style Transfer, ICLR, 2020, [[paper]](https://openreview.net/forum?id=HJlA0C4tPS)
+- A Probabilistic Formulation of Unsupervised Text Style Transfer, ICLR, 2020, [[paper]](https://openreview.net/forum?id=HJlA0C4tPS), [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
+- Generating sentences from disentangled syntactic and semantic spaces, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1602/), [[code]](https://github.com/baoy-nlp/DSS-VAE)
+- SentiInc: Incorporating Sentiment Information into Sentiment Transfer Without Parallel Data, ECIR, 2020, [[paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-45442-5_39.pdf)
+- Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.00701.pdf)
+- Contextual Text Style Transfer, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2005.00136.pdf)
+- Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.02049.pdf)
 
-# Semi-supervised
+## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
 
 ## Evaluation and Analysis
@@ -71,6 +76,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Rethinking Text Attribute Transfer: A Lexical Analysis, INLG, 2019, [[paper]](https://arxiv.org/abs/1909.12335), [[code]](https://github.com/FranxYao/pivot_analysis)
 - Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer, EMNLP Workshop on Neural Generation and Translation (WNGT), 2019, [[paper]](https://arxiv.org/abs/1810.11878)
 - The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation, WNGT, 2019, [[paper]](https://arxiv.org/abs/1910.03747)
+- Style-transfer and Paraphrase: Looking for a Sensible Semantic Similarity Metric, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2004.05001.pdf)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
