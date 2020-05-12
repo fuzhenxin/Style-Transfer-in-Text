@@ -67,6 +67,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.00701.pdf)
 - Contextual Text Style Transfer, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2005.00136.pdf)
 - Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.02049.pdf)
+- ST$^2$: Small-data Text Style Transfer via Multi-task Meta-Learning, Arxiv, 2020, [[paper]](https://arxiv.org/abs/2004.11742)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
