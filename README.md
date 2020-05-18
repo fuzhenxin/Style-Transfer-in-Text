@@ -69,9 +69,12 @@ This is a paper list for style transfer in text. It also contains some related r
 - Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.02049.pdf)
 - ST$^2$: Small-data Text Style Transfer via Multi-task Meta-Learning, Arxiv, 2020, [[paper]](https://arxiv.org/abs/2004.11742)
 - Reinforced Rewards Framework for Text Style Transfer, ECIR, 2020, [[paper]](https://arxiv.org/abs/2005.05256)
+- Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline, SocialNLP, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07617.pdf)
+
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
+- Parallel Data Augmentation for Formality Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07522.pdf)
 
 ## Evaluation and Analysis
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/abs/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
