@@ -70,6 +70,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - ST$^2$: Small-data Text Style Transfer via Multi-task Meta-Learning, Arxiv, 2020, [[paper]](https://arxiv.org/abs/2004.11742)
 - Reinforced Rewards Framework for Text Style Transfer, ECIR, 2020, [[paper]](https://arxiv.org/abs/2005.05256)
 - Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline, SocialNLP, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07617.pdf)
+- Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2005.12086.pdf)
 
 
 ## Semi-supervised
