@@ -106,7 +106,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Politeness Transfer: A Tag and Generate Approach, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.14257.pdf)
 
 # Unsupervised Seq2Seq
-- Unsupervised neural machine translation, 2017. [[paper](https://arxiv.org/pdf/1710.11041.pdf)
+- Unsupervised neural machine translation, 2017. [[paper]](https://arxiv.org/pdf/1710.11041.pdf)
 
 
 # Workshop
