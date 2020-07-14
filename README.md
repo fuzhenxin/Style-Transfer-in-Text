@@ -31,7 +31,6 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Text Style Transfer using Language Models as Discriminators, NIPS-2018, [[paper]](https://arxiv.org/abs/1805.11749)
 - Disentangled Representation Learning for Non-Parallel Text Style Transfer, ACL-2019, [[paper]](https://arxiv.org/abs/1808.04339), [[code]](https://github.com/vineetjohn/linguistic-style-transfer)
 - Language Style Transfer from Sentences with Arbitrary Unknown Styles, Arxiv, [[paper]](https://arxiv.org/abs/1808.04071)
-- What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
 - Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
 - Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311), [[code]](https://github.com/lancopku/SMAE)
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
@@ -71,7 +70,8 @@ This is a paper list for style transfer in text. It also contains some related r
 - Reinforced Rewards Framework for Text Style Transfer, ECIR, 2020, [[paper]](https://arxiv.org/abs/2005.05256)
 - Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline, SocialNLP, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07617.pdf)
 - Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2005.12086.pdf)
-
+- Unsupervised neural machine translation, 2017. [[paper](https://arxiv.org/pdf/1710.11041.pdf)
+- Unsupervised Automatic Text Style Transfer Using LSTM, National CCF Conference on Natural Language Processing and Chinese Computing, pages 281–292. [[paper]](http://tcci.ccf.org.cn/conference/2017/papers/1135.pdf)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
@@ -83,6 +83,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer, EMNLP Workshop on Neural Generation and Translation (WNGT), 2019, [[paper]](https://arxiv.org/abs/1810.11878)
 - The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation, WNGT, 2019, [[paper]](https://arxiv.org/abs/1910.03747)
 - Style-transfer and Paraphrase: Looking for a Sensible Semantic Similarity Metric, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2004.05001.pdf)
+- What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
