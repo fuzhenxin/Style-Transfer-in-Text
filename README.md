@@ -72,6 +72,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2005.12086.pdf)
 - Unsupervised Automatic Text Style Transfer Using LSTM, NLPCC, 2017, [[paper]](http://tcci.ccf.org.cn/conference/2017/papers/1135.pdf)
 - Text Style Transfer via Learning Style Instance Supported Latent Space, IJCAI, 2020, [[paper]](https://www.ijcai.org/Proceedings/2020/0526.pdf)
+- Learning to Generate Multiple Style Transfer Outputs for an Input Sentence, Arxiv, 2020, [[paper]](https://arxiv.org/abs/2002.06525)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
