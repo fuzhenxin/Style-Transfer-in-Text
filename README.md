@@ -5,6 +5,8 @@ This is a paper list for style transfer in text. It also contains some related r
 
 # Paper List
 
+## Review
+- Deep Learning for Text Attribute Transfer: A Survey, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2011.00416.pdf)
 
 ## Dataset
 - Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/abs/1803.06535)
@@ -14,6 +16,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Shakespearizing Modern Language Using Copy-Enriched Sequence to Sequence Models, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.01161)[[code]](https://github.com/harsh19/Shakespearizing-Modern-English)
 - Evaluating prose style transfer with the Bible, 2018, [[paper]](https://arxiv.org/abs/1711.04731)
 - Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer, EMNLP-2019, [[paper]](https://www.aclweb.org/anthology/D19-1365/), [[code]](https://github.com/jimth001/formality_emnlp19)
+- Automatically Neutralizing Subjective Bias in Text, AAAI, 2020, [[paper]](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
 
 ## Unsupervised (Non-parallel Data)
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
@@ -113,10 +116,10 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised neural machine translation, 2017. [[paper]](https://arxiv.org/pdf/1710.11041.pdf)
 
 
-# Workshop
+# Workshop and Tutorial
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
 - Stylistic Variation, NAACL-HLT-2018, [[link]](https://sites.google.com/view/2ndstylisticvariation/home)
-
+- Stylized Text Generation, ACL-2020, [[link]](https://sites.google.com/view/2020-stylized-text-generation/tutorial)
 
 # Copyright 
 By Zhenxin Fu (fuzhenxin95@gmail.com) from Peking University.  
