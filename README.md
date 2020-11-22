@@ -66,7 +66,8 @@ This is a paper list for style transfer in text. It also contains some related r
 - A Probabilistic Formulation of Unsupervised Text Style Transfer, ICLR, 2020, [[paper]](https://openreview.net/forum?id=HJlA0C4tPS), [[code]](https://github.com/cindyxinyiwang/deep-latent-sequence-model)
 - Generating sentences from disentangled syntactic and semantic spaces, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1602/), [[code]](https://github.com/baoy-nlp/DSS-VAE)
 - SentiInc: Incorporating Sentiment Information into Sentiment Transfer Without Parallel Data, ECIR, 2020, [[paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-45442-5_39.pdf)
-- Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.00701.pdf)
+- 
+Style Transfer: A New Task Towards Better Communication between Experts and Laymen, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.00701.pdf)
 - Contextual Text Style Transfer, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2005.00136.pdf)
 - Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.02049.pdf)
 - ST$^2$: Small-data Text Style Transfer via Multi-task Meta-Learning, Arxiv, 2020, [[paper]](https://arxiv.org/abs/2004.11742)
@@ -107,7 +108,6 @@ This is a paper list for style transfer in text. It also contains some related r
 - Structuring Latent Spaces for Stylized Response Generation, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.05361)
 - Complementary Auxiliary Classifiers for Label-Conditional Text Generation, AAAI, 2020, [[paper]](http://people.ee.duke.edu/~lcarin/AAAI_LiY_6828.pdf), [[code]](https://github.com/s1155026040/CARA)
 - Hooks in the Headline: Learning to Generate Headlines with Controlled Styles, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.01980.pdf)
-- Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.00701.pdf)
 - Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.02049.pdf)
 - Parallel Data Augmentation for Formality Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07522.pdf)
 - Politeness Transfer: A Tag and Generate Approach, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.14257.pdf)
