@@ -7,6 +7,7 @@ This is a paper list for style transfer in text. It also contains some related r
 
 ## Review
 - Deep Learning for Text Attribute Transfer: A Survey, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2011.00416.pdf)
+- Text Style Transfer: A Review and Experiment Evaluation, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2010.12742.pdf)
 
 ## Dataset
 - Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/abs/1803.06535)
