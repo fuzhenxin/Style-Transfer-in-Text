@@ -79,6 +79,13 @@ This is a paper list for style transfer in text. It also contains some related r
 - Learning to Generate Multiple Style Transfer Outputs for an Input Sentence, Arxiv, 2020, [[paper]](https://arxiv.org/abs/2002.06525)
 - Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders, ACL, 2020, [[paper]](https://arxiv.org/pdf/1911.03882.pdf)
 - Unsupervised Text Style Transfer with Padded Masked Language Models, EMNLP, 2020, [[paper]](https://arxiv.org/pdf/2010.01054.pdf)
+- Reformulating Unsupervised Style Transfer as Paraphrase Generation, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.05700.pdf)
+- DGST: a Dual-Generator Network for Text Style Transfer, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.14557.pdf)
+- How Positive Are You: Text Style Transfer Using Adaptive Style Embedding, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.191.pdf)
+- Unsupervised Text Generation by Learning from Search, NeurIPS 2020, [[paper]](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf)
+- Cycle-Consistent Adversarial Autoencoders for Unsupervised Text Style Transfer, COLING 2020, [[paper]](https://arxiv.org/pdf/2010.00735.pdf)
+- Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
+
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/abs/1909.11493)
@@ -91,6 +98,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation, WNGT, 2019, [[paper]](https://arxiv.org/abs/1910.03747)
 - Style-transfer and Paraphrase: Looking for a Sensible Semantic Similarity Metric, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2004.05001.pdf)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
+- Style versus Content: A distinction without a (learnable) difference?, COLING 2020,	[[paper]](https://www.aclweb.org/anthology/2020.coling-main.197.pdf)
 
 ## Stylistic Related Papers
 - Controlling Linguistic Style Aspects in Neural Language Generation, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/abs/1707.02633)
@@ -111,6 +119,14 @@ This is a paper list for style transfer in text. It also contains some related r
 - Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.02049.pdf)
 - Parallel Data Augmentation for Formality Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07522.pdf)
 - Politeness Transfer: A Tag and Generate Approach, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.14257.pdf)
+- Towards A Friendly Online Community: An Unsupervised Style Transfer Framework for Profanity Redaction, COLING 2020, [[paper]](https://arxiv.org/pdf/2011.00403.pdf)
+- Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation, EMNLP 2020, (https://arxiv.org/pdf/2009.08942.pdf)
+
+## Controlled Text Generation (Similar, but not exactly style transfer)
+- Toward Controlled Generation of Text, ICML 2017. [[paper]](https://arxiv.org/pdf/1703.00955.pdf) 
+- CTRL: A Conditional Transformer Language Model for Controllable Generation, arXiv 2019. [[paper]](https://arxiv.org/pdf/1909.05858.pdf)
+- Defending Against Neural Fake News, NeurIPS 2019. (about conditional generation of neural fake news) [[paper]](https://arxiv.org/pdf/1905.12616.pdf)
+- Plug and Play Language Models: A Simple Approach to Controlled Text Generation, ICLR 2020. [[paper]](https://openreview.net/pdf?id=H1edEyBKDS)
 
 # Unsupervised Seq2Seq
 - Unsupervised neural machine translation, 2017. [[paper]](https://arxiv.org/pdf/1710.11041.pdf)
@@ -119,7 +135,7 @@ This is a paper list for style transfer in text. It also contains some related r
 # Workshop and Tutorial
 - Stylistic Variation, EMNLP-2017, [[link]](https://sites.google.com/site/workshoponstylisticvariation/)
 - Stylistic Variation, NAACL-HLT-2018, [[link]](https://sites.google.com/view/2ndstylisticvariation/home)
-- Stylized Text Generation, ACL-2020, [[link]](https://sites.google.com/view/2020-stylized-text-generation/tutorial)
+- Stylized Text Generation, ACL-2020, [[link]](https://sites.google.com/view/2020-stylized-text-generation/tutorial) [[video-part1]](https://vimeo.com/436479481) [[video-part2]](https://www.youtube.com/watch?v=qSbqVjM-Vik)
 
 # Copyright 
 By Zhenxin Fu (fuzhenxin95@gmail.com) from Peking University.  
