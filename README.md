@@ -120,7 +120,8 @@ This is a paper list for style transfer in text. It also contains some related r
 - Parallel Data Augmentation for Formality Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07522.pdf)
 - Politeness Transfer: A Tag and Generate Approach, ACL, 2020, [[paper]](https://arxiv.org/pdf/2004.14257.pdf)
 - Towards A Friendly Online Community: An Unsupervised Style Transfer Framework for Profanity Redaction, COLING 2020, [[paper]](https://arxiv.org/pdf/2011.00403.pdf)
-- Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation, EMNLP 2020, (https://arxiv.org/pdf/2009.08942.pdf)
+- Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2009.08942.pdf)
+- PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf)
 
 ## Controlled Text Generation (Similar, but not exactly style transfer)
 - Toward Controlled Generation of Text, ICML 2017. [[paper]](https://arxiv.org/pdf/1703.00955.pdf) 
