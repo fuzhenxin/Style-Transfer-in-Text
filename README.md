@@ -85,6 +85,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Text Generation by Learning from Search, NeurIPS 2020, [[paper]](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf)
 - Cycle-Consistent Adversarial Autoencoders for Unsupervised Text Style Transfer, COLING 2020, [[paper]](https://arxiv.org/pdf/2010.00735.pdf)
 - Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
+- TextSETTR: Label-Free Text Style Extraction and Tunable Targeted Restyling, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2010.03802.pdf)
 
 
 ## Semi-supervised
