@@ -6,7 +6,7 @@ This is a paper list for style transfer in text. It also contains some related r
 # Paper List
 
 ## Review
-- Deep Learning for Text Attribute Transfer: A Survey, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2011.00416.pdf)
+- Deep Learning for Text Style Transfer: A Survey, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2011.00416.pdf)
 - Text Style Transfer: A Review and Experiment Evaluation, arXiv, 2020, [[paper]](https://arxiv.org/pdf/2010.12742.pdf)
 
 ## Dataset
