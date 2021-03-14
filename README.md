@@ -18,6 +18,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Evaluating prose style transfer with the Bible, 2018, [[paper]](https://arxiv.org/pdf/1711.04731)
 - Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer, EMNLP-2019, [[paper]](https://www.aclweb.org/anthology/D19-1365/), [[code]](https://github.com/jimth001/formality_emnlp19)
 - Automatically Neutralizing Subjective Bias in Text, AAAI, 2020, [[paper]](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
+- Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
 
 ## Unsupervised (Non-parallel Data)
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
@@ -52,7 +53,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Multiple-Attribute Text Style Transfer (Rewriting), ICLR, 2019, [[paper]](https://openreview.net/forum?id=H1g2NhC5KQ)
 - Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation, ACL, 2019, [[paper]](https://arxiv.org/pdf/1905.05621)
 - A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, IJCAI, 2019, [[paper]](https://arxiv.org/pdf/1905.10060), [[code]](https://github.com/luofuli/DualLanST)
-- On Variational Learning of Controllable Representations for Text without Supervision, Arxiv, 2019, [[paper]](https://arxiv.org/pdf/1905.11975)
+- On Variational Learning of Controllable Representations for Text without Supervision, ICML, 2020, [[paper]](http://proceedings.mlr.press/v119/xu20a/xu20a.pdf)
 - Revision in Continuous Space: Fine-Grained Control of Text Style Transfer, AAAI, 2020, [[paper]](https://arxiv.org/pdf/1905.12304)
 - Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation, NIPS, 2019, [[paper]](https://arxiv.org/pdf/1905.12926), [[code]](https://github.com/nrgeup/controllable-text-attribute-transfer)
 - Disentangled Representation Learning for Non-Parallel Text Style Transfer, ACL, 2019, [[paper]](https://www.aclweb.org/anthology/P19-1041), [[code]](https://github.com/vineetjohn/linguistic-style-transfer)
@@ -84,7 +85,6 @@ This is a paper list for style transfer in text. It also contains some related r
 - How Positive Are You: Text Style Transfer Using Adaptive Style Embedding, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.191.pdf)
 - Unsupervised Text Generation by Learning from Search, NeurIPS 2020, [[paper]](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf)
 - Cycle-Consistent Adversarial Autoencoders for Unsupervised Text Style Transfer, COLING 2020, [[paper]](https://arxiv.org/pdf/2010.00735.pdf)
-- Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
 - TextSETTR: Label-Free Text Style Extraction and Tunable Targeted Restyling, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2010.03802.pdf)
 
 
