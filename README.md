@@ -86,7 +86,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Text Generation by Learning from Search, NeurIPS 2020, [[paper]](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf)
 - Cycle-Consistent Adversarial Autoencoders for Unsupervised Text Style Transfer, COLING 2020, [[paper]](https://arxiv.org/pdf/2010.00735.pdf)
 - TextSETTR: Label-Free Text Style Extraction and Tunable Targeted Restyling, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2010.03802.pdf)
-
+- On Learning Text Style Transfer with Direct Rewards, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2010.12771.pdf)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1909.11493)
@@ -131,6 +131,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - CTRL: A Conditional Transformer Language Model for Controllable Generation, arXiv 2019. [[paper]](https://arxiv.org/pdf/1909.05858.pdf)
 - Defending Against Neural Fake News, NeurIPS 2019. (about conditional generation of neural fake news) [[paper]](https://arxiv.org/pdf/1905.12616.pdf)
 - Plug and Play Language Models: A Simple Approach to Controlled Text Generation, ICLR 2020. [[paper]](https://openreview.net/pdf?id=H1edEyBKDS)
+- COCON: A Self-Supervised Approach for Controlled Text Generation, ICLR 2021. [[paper]](https://openreview.net/pdf?id=VD_ozqvBy4W)
 
 # Unsupervised Seq2Seq
 - Unsupervised neural machine translation, 2017. [[paper]](https://arxiv.org/pdf/1710.11041.pdf)
