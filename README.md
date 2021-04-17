@@ -86,8 +86,11 @@ This is a paper list for style transfer in text. It also contains some related r
 - Unsupervised Text Generation by Learning from Search, NeurIPS 2020, [[paper]](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf)
 - Cycle-Consistent Adversarial Autoencoders for Unsupervised Text Style Transfer, COLING 2020, [[paper]](https://arxiv.org/pdf/2010.00735.pdf)
 - TextSETTR: Label-Free Text Style Extraction and Tunable Targeted Restyling, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2010.03802.pdf)
-- On Learning Text Style Transfer with Direct Rewards, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2010.12771.pdf)
 - Non-parallel text style transfer with domain adaptation and an attention model, Applied Intelligence, 2021, [[paper]](https://link.springer.com/article/10.1007/s10489-020-02077-5), [[code]](https://github.com/mingxuan007/text-style-transfer-with-adversarial-network-and-domain-adaptation)
+- On Learning Text Style Transfer with Direct Rewards, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.12771.pdf)
+- STYLEPTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2104.05196.pdf),[[code]](https://github.com/lvyiwei1/StylePTB/)
+- Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.11578.pdf)
+- Civil Rephrases Of Toxic Texts With Self-Supervised Transformers, EACL, 2021, [[paper]](https://arxiv.org/pdf/2102.05456.pdf), [[code]](https://github.com/LeoLaugier/conditional-auto-encoder-text-to-text-transfer-transformer)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1909.11493)
