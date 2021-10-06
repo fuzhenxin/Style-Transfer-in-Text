@@ -82,6 +82,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders, ACL, 2020, [[paper]](https://arxiv.org/pdf/1911.03882.pdf)
 - Unsupervised Text Style Transfer with Padded Masked Language Models, EMNLP, 2020, [[paper]](https://arxiv.org/pdf/2010.01054.pdf)
 - Reformulating Unsupervised Style Transfer as Paraphrase Generation, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.05700.pdf)
+- Plug and Play Autoencoders for Conditional Text Generation, EMNLP 2020 [[paper]](https://arxiv.org/pdf/2010.02983.pdf)
 - DGST: a Dual-Generator Network for Text Style Transfer, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2010.14557.pdf)
 - How Positive Are You: Text Style Transfer Using Adaptive Style Embedding, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.191.pdf)
 - Unsupervised Text Generation by Learning from Search, NeurIPS 2020, [[paper]](https://papers.nips.cc/paper/2020/file/7a677bb4477ae2dd371add568dd19e23-Paper.pdf)
