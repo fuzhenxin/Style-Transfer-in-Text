@@ -93,6 +93,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - STYLEPTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2104.05196.pdf),[[code]](https://github.com/lvyiwei1/StylePTB/)
 - Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.11578.pdf)
 - Civil Rephrases Of Toxic Texts With Self-Supervised Transformers, EACL, 2021, [[paper]](https://arxiv.org/pdf/2102.05456.pdf), [[code]](https://github.com/LeoLaugier/conditional-auto-encoder-text-to-text-transfer-transformer)
+- Efficient Reinforcement Learning for Unsupervised Controlled Text Generation, Arxiv, 2022, [[paper]](https://arxiv.org/pdf/2204.07696.pdf)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1909.11493)
