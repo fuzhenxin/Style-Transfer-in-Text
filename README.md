@@ -94,10 +94,12 @@ This is a paper list for style transfer in text. It also contains some related r
 - Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.11578.pdf)
 - Civil Rephrases Of Toxic Texts With Self-Supervised Transformers, EACL, 2021, [[paper]](https://arxiv.org/pdf/2102.05456.pdf), [[code]](https://github.com/LeoLaugier/conditional-auto-encoder-text-to-text-transfer-transformer)
 - Efficient Reinforcement Learning for Unsupervised Controlled Text Generation, Arxiv, 2022, [[paper]](https://arxiv.org/pdf/2204.07696.pdf)
+- So Different Yet So Alike! Constrained Unsupervised Text Style Transfer, ACL, 2022, [[paper]](https://aclanthology.org/2022.acl-long.32.pdf), [[code]](https://github.com/abhinavkashyap/dct)
 
 ## Semi-supervised
 - Semi-supervised Text Style Transfer: Cross Projection in Latent Space, EMNLP, 2019, [[paper]](https://arxiv.org/pdf/1909.11493)
 - Parallel Data Augmentation for Formality Style Transfer, ACL, 2020, [[paper]](https://arxiv.org/pdf/2005.07522.pdf)
+- Semi-Supervised Formality Style Transfer with Consistency Training, ACL, 2022, [[paper]](https://aclanthology.org/2022.acl-long.321.pdf), [[code]]([https://www.github](https://github.com/Aolius/semi-fst))
 
 ## Evaluation and Analysis
 - Evaluating Style Transfer for Text, NAACL, 2019, [[paper1]](https://arxiv.org/pdf/1904.02295), [[paper2]](https://dspace.mit.edu/bitstream/handle/1721.1/119569/1076275047-MIT.pdf?sequence=1)
