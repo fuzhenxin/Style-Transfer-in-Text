@@ -91,6 +91,10 @@ This is a paper list for style transfer in text. It also contains some related r
 - TextSETTR: Label-Free Text Style Extraction and Tunable Targeted Restyling, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2010.03802.pdf)
 - Non-parallel text style transfer with domain adaptation and an attention model, Applied Intelligence, 2021, [[paper]](https://link.springer.com/article/10.1007/s10489-020-02077-5), [[code]](https://github.com/mingxuan007/text-style-transfer-with-adversarial-network-and-domain-adaptation)
 - Exploring Non-Autoregressive Text Style Transfer, EMNLP, 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.730.pdf)
+- Generic resources are what you need: Style transfer tasks without task-specific parallel training data, EMNLP, 2021, [[paper]](https://arxiv.org/pdf/2109.04543.pdf)
+- Style Pooling: Automatic Text Style Obfuscation for Improved Classification Fairness, EMNLP, 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.152.pdf)
+- Transductive Learning for Unsupervised Text Style Transfer, EMNLP, 2021, [[paper]](https://arxiv.org/pdf/2109.07812.pdf)
+- Collaborative Learning of Bidirectional Decoders for Unsupervised Text Style Transfer, EMNLP, 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.729.pdf)
 - On Learning Text Style Transfer with Direct Rewards, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.12771.pdf)
 - STYLEPTB: A Compositional Benchmark for Fine-grained Controllable Text Style Transfer, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2104.05196.pdf),[[code]](https://github.com/lvyiwei1/StylePTB/)
 - Multi-Style Transfer with Discriminative Feedback on Disjoint Corpus, NAACL, 2021, [[paper]](https://arxiv.org/pdf/2010.11578.pdf)
@@ -112,6 +116,9 @@ This is a paper list for style transfer in text. It also contains some related r
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/pdf/1808.04365)
 - Style versus Content: A distinction without a (learnable) difference?, COLING 2020,	[[paper]](https://www.aclweb.org/anthology/2020.coling-main.197.pdf)
 - Rethinking Sentiment Style Transfer, EMNLP 2021, [[paper]](https://aclanthology.org/2021.findings-emnlp.135.pdf)
+- Evaluating the Evaluation Metrics for Style Transfer: A Case Study in Multilingual Formality Transfer, EMNLP 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.100.pdf)
+- Does It Capture STEL? A Modular, Similarity-based Linguistic Style Evaluation Framework, EMNLP 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.569.pdf)
+
 ## Stylistic Related Papers
 - Controlling Politeness in Neural Machine Translation via Side Constraints, NAACL 2016, [[paper]](https://www.aclweb.org/anthology/N16-1005.pdf)
 - A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output, EMNLP 2017, [[paper]](https://www.aclweb.org/anthology/D17-1299.pdf)
@@ -136,6 +143,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Towards A Friendly Online Community: An Unsupervised Style Transfer Framework for Profanity Redaction, COLING 2020, [[paper]](https://arxiv.org/pdf/2011.00403.pdf)
 - Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2009.08942.pdf)
 - PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf)
+- Does BERT Learn as Humans Perceive? Understanding Linguistic Styles through Lexica, EMNLP 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.510.pdf)
 - APPDIA: A Discourse-aware Transformer-based Style Transfer Model for Offensive Social Media Conversations, COLING 2022, [[paper]](https://aclanthology.org/2022.coling-1.530.pdf)
 
 ## Controlled Text Generation (Similar, but not exactly style transfer)
