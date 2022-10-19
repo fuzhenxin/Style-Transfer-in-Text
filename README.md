@@ -109,7 +109,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Style-transfer and Paraphrase: Looking for a Sensible Semantic Similarity Metric, Arxiv, 2020, [[paper]](https://arxiv.org/pdf/2004.05001.pdf)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/pdf/1808.04365)
 - Style versus Content: A distinction without a (learnable) difference?, COLING 2020,	[[paper]](https://www.aclweb.org/anthology/2020.coling-main.197.pdf)
-
+- Rethinking Sentiment Style Transfer, EMNLP 2021, [[paper]](https://aclanthology.org/2021.findings-emnlp.135.pdf)
 ## Stylistic Related Papers
 - Controlling Politeness in Neural Machine Translation via Side Constraints, NAACL 2016, [[paper]](https://www.aclweb.org/anthology/N16-1005.pdf)
 - A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output, EMNLP 2017, [[paper]](https://www.aclweb.org/anthology/D17-1299.pdf)
