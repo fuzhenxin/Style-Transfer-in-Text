@@ -13,6 +13,7 @@ This is a paper list for style transfer in text. It also contains some related r
 ## Dataset
 - Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/pdf/1803.06535)
 - A Dataset for Low-Resource Stylized Sequence-to-Sequence Generation, AAAI, 2020, [[paper]](https://www.msra.cn/wp-content/uploads/2020/01/A-Dataset-for-Low-Resource-Stylized-Sequence-to-Sequence-Generation.pdf), [[code]](https://github.com/MarkWuNLP/Data4StylizedS2S)
+- APPDIA: A Discourse-aware Transformer-based Style Transfer Model for Offensive Social Media Conversations, COLING 2022, [[paper]](https://aclanthology.org/2022.coling-1.530.pdf)
 
 ## Supervised (Parallel Data)
 - Shakespearizing Modern Language Using Copy-Enriched Sequence to Sequence Models, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/pdf/1707.01161)[[code]](https://github.com/harsh19/Shakespearizing-Modern-English)
@@ -144,7 +145,6 @@ This is a paper list for style transfer in text. It also contains some related r
 - Generating similes effortlessly like a Pro: A Style Transfer Approach for Simile Generation, EMNLP 2020, [[paper]](https://arxiv.org/pdf/2009.08942.pdf)
 - PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction, EMNLP 2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.602.pdf)
 - Does BERT Learn as Humans Perceive? Understanding Linguistic Styles through Lexica, EMNLP 2021, [[paper]](https://aclanthology.org/2021.emnlp-main.510.pdf)
-- APPDIA: A Discourse-aware Transformer-based Style Transfer Model for Offensive Social Media Conversations, COLING 2022, [[paper]](https://aclanthology.org/2022.coling-1.530.pdf)
 
 ## Controlled Text Generation (Similar, but not exactly style transfer)
 - Toward Controlled Generation of Text, ICML 2017. [[paper]](https://arxiv.org/pdf/1703.00955.pdf) 
