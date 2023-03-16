@@ -14,6 +14,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Dear Sir or Madam, May I introduce the YAFC Corpus: Corpus, Benchmarks and Metrics for Formality Style Transfer, NAACL-HLT 2018, [[paper]](https://arxiv.org/pdf/1803.06535)
 - A Dataset for Low-Resource Stylized Sequence-to-Sequence Generation, AAAI, 2020, [[paper]](https://www.msra.cn/wp-content/uploads/2020/01/A-Dataset-for-Low-Resource-Stylized-Sequence-to-Sequence-Generation.pdf), [[code]](https://github.com/MarkWuNLP/Data4StylizedS2S)
 - APPDIA: A Discourse-aware Transformer-based Style Transfer Model for Offensive Social Media Conversations, COLING 2022, [[paper]](https://aclanthology.org/2022.coling-1.530.pdf)
+- ParaDetox: Detoxification with Parallel Data, ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.469.pdf)
 
 ## Supervised (Parallel Data)
 - Shakespearizing Modern Language Using Copy-Enriched Sequence to Sequence Models, EMNLP-2017 Workshop, [[paper]](https://arxiv.org/pdf/1707.01161)[[code]](https://github.com/harsh19/Shakespearizing-Modern-English)
@@ -22,6 +23,7 @@ This is a paper list for style transfer in text. It also contains some related r
 - Automatically Neutralizing Subjective Bias in Text, AAAI, 2020, [[paper]](https://nlp.stanford.edu/pubs/pryzant2020bias.pdf)
 - Formality Style Transfer with Shared Latent Space, COLING 2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.203.pdf)
 - Smells like Teen Spirit:An Exploration of Sensorial Style in Literary Genres, COLING 2022, [[paper]](https://aclanthology.org/2022.coling-1.6.pdf)
+- ParaDetox: Detoxification with Parallel Data, ACL 2022, [[paper]](https://aclanthology.org/2022.acl-long.469.pdf)
 
 ## Unsupervised (Non-parallel Data)
 - Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, ICML-2017, [[paper]](http://proceedings.mlr.press/v70/mueller17a.html), [[code]](https://bitbucket.org/jwmueller/sequence-to-better-sequence/)
